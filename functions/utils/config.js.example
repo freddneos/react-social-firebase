@@ -1,0 +1,10 @@
+module.exports = {
+    apiKey: "[Your code here ]",
+    authDomain: "[Your code here ]m",
+    databaseURL: "[Your code here ]",
+    projectId: "[Your code here ]",
+    storageBucket: "[Your code here ]",
+    messagingSenderId: "[Your code here ]",
+    appId: "[Your code here ]",
+    measurementId: "[Your code here ]"
+};
